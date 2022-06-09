@@ -18,7 +18,8 @@
 ## Usage
 
 1. Clone this repository
-2. Enter the folder of clone
+2. Enter the cloned folder
+3. Rename the flavour of your choosing to `theme.lua`
 3. Move `theme.lua` to `.config/tym/`:
 ```
 mv theme.lua ~/.config/tym
